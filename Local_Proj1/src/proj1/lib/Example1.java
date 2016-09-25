@@ -9,4 +9,6 @@ package proj1.lib;
  */
 public class Example1 {
 
+	private int a;
+	public Example1() {}  
 }
